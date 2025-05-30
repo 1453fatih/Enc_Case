@@ -38,6 +38,11 @@ Bu proje, web uygulamalarını test etmek için Gauge, Selenium, Java ve Maven k
     ```
     Bu komut projeyi temizler, kaynak kodunu derler ve Maven bağımlılıklarını günceller.
 
+## Hata Yönetimi
+
+![image](https://github.com/user-attachments/assets/884e7689-4729-48e4-860f-a6883355f82e)
+
+
 ## Yapılandırma
 
 ### Tarayıcı Yapılandırması
